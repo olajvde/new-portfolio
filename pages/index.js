@@ -9,7 +9,7 @@ import SiteLogo from "../components/SiteLogo";
 import Skills from "../components/Skills";
 import Head from "next/head";
 
-const indexx = () => {
+const index = () => {
   return (
     <div>
       <Head>
@@ -29,4 +29,4 @@ const indexx = () => {
   );
 };
 
-export default indexx;
+export default index;
