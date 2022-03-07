@@ -1,5 +1,6 @@
 import styles from '../styles/portfolio.module.css'
 import {BiRightArrowAlt} from 'react-icons/bi'
+import image from '../public/stardust.png'
 
 const Header = () => {
   return (
