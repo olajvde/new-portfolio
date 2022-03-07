@@ -5,7 +5,7 @@ import Header from "../components/Header";
 import Open from "../components/Open";
 import Profile from "../components/Profile";
 import Projects from "../components/Projects";
-import SiteLogo from "../components/siteLogo";
+import SiteLogo from "../components/SiteLogo";
 import Skills from "../components/Skills";
 import Head from "next/head";
 
