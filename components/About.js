@@ -8,7 +8,7 @@ const About = () => {
     <div className={styles.about}>
       <div className={styles.about_info}>
         <h3 className={styles.headerh3}>Bio</h3>
-        <h1 className={styles.headerh1}>Education</h1>
+        <h1 className={styles.abouth1} data-text="Education">Education</h1>
         <p className={styles.aboutp}>
           I have a diploma in Computer Science.
           <br />and a Bsc. in Information Technology

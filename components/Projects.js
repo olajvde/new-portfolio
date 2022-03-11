@@ -8,7 +8,7 @@ const Projects = () => {
 
       <br />
       <br />
-      <h1 className={styles.projectsh1}>My Work</h1>
+      <h1 className={styles.projectsh1} data-text="My Work">My Work</h1>
       <p className={styles.projectsp}>
         Below are some projects i worked
         <br /> personally on ✌😎

@@ -7,7 +7,7 @@ const Skills = () => {
   return (
     <div className={styles.skills}>
       <h3 className={styles.headerh3}>SKills</h3>
-      <h1 className={styles.headerh1}>My Stack</h1>
+      <h1 className={styles.skillsh1} data-text ="My Stack">My Stack</h1>
       <p className={styles.headerp}>
         I currently work with the MERN & PERN STACK <br />
         I have extensive programming experience and <br />I am comfortable
