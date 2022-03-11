@@ -69,10 +69,10 @@
 }
 
 .headerh1::before {
-  color: #ff00c1;
+  color: #8f4066;
   animation: glitch-effect 3s infinite;
   /* left: 3px; */
-  text-shadow: -2px 0 red;
+  text-shadow: -1.5px 0 red;
 }
 .headerh1::after {
   color: #fff;
@@ -189,7 +189,7 @@
   color: #ff00c1;
   animation: glitch-effect 3s infinite;
   /* left: 3px; */
-  text-shadow: -2px 0 red;
+  text-shadow: -1.5px 0 red;
 }
 .skillsh1::after {
   color: #fff;
@@ -276,7 +276,7 @@
   color: #ff00c1;
   animation: glitch-effect 3s infinite;
   /* left: 3px; */
-  text-shadow: -2px 0 red;
+  text-shadow: -1.5px 0 red;
 }
 .abouth1::after {
   color: #fff;
@@ -375,7 +375,7 @@
   color: #ff00c1;
   animation: glitch-effect 3s infinite;
   /* left: 3px; */
-  text-shadow: -2px 0 red;
+  text-shadow: -1.5px 0 red;
 }
 .projectsh1::after {
   color: #fff;
@@ -593,7 +593,7 @@
   color: #ff00c1;
   animation: glitch-effect 3s infinite;
   /* left: 3px; */
-  text-shadow: -2px 0 red;
+  text-shadow: -1.5px 0 red;
 }
 .openh1::after {
   color: #fff;
