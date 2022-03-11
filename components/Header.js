@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className={styles.header}>
         <h3 className={styles.headerh3}>Full Stack Dev</h3>
-        <h1 className={styles.headerh1}>Olajide</h1>
+        <h1 className={styles.headerh1} data-text="Olajide">Olajide</h1>
         <p className={styles.headerp}>I am a Web Developer and Programmer.<br /> I make Web applications, usually with Javascript.</p>
         <div>
             <form className={styles.headerform}>
